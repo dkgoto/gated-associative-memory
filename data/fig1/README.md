@@ -7,8 +7,8 @@
   steady-state overlaps for initial overlap m(0)  vs memory load α for the ungated model.
 
 Parameters:
-- N = 1000
-- g = 1.5
-- dt = 0.2
-- T = 10000
+- N = 1000: network size
+- g = 1.5: scalar gain
+- dt = 0.2: timestep
+- T = 10000: number of steps
 - ensemble size = 100
