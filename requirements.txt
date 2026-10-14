@@ -1,0 +1,8 @@
+# Tested with Python 3.12.2
+
+numpy       # tested: 2.3.1
+scipy       # tested: 1.16.1
+matplotlib  # tested: 3.10.3
+joblib      # tested: 1.5.2
+tqdm        # tested: 4.67.1
+numba       # tested: 0.62.1
